@@ -1,0 +1,45 @@
+.gamescreen {
+    width: 800px;
+    height: 600px;
+    background-color: lightgrey;
+    margin: auto;
+    margin-top: 100px;
+    border: 3px solid grey;
+    border-radius: 3px;
+    display:block;
+
+
+}
+
+body { 
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/080/871/original/blank-sky-background-with-leaves-element-free-vector.jpg");
+}
+
+.gametop {
+    background-color: lightgrey;
+    max-width: 100%;
+    height: 100px;
+    
+}
+.gamemain {
+    background-color: white;
+    max-width: 100%;
+    height: 350px;
+}
+.gamebottom {
+    background-color: lightgrey;
+    max-width: 100%;
+    height: 100px;
+   
+}
+
+.playerpokemon {
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+}
+
+.status {
+    color: red;
+    font-weight: bold;
+}
