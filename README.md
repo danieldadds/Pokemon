@@ -1,1 +1,1 @@
-# Pokemon
+My first solo project using Javascript, HTML and CSS to create a battle mode inspired by the Pokemon franchise. # Pokemon
